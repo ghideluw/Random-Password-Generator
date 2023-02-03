@@ -1,4 +1,4 @@
-# Week-3-Challenge---Friendly-Parakeet
+# Week-3-Challenge
 
 ## Description
 Password generator Application
